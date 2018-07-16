@@ -15,11 +15,11 @@ Liens
 
 ## Répartition
 
-|  Vincent         |      Victor                  | Martin             |
- ----------------- | ---------------------------- | ------------------
-|  Front		   |   Back                       |   JS               |
-|  JS              |   JS                         |                    |
-|                  |                              |                    |
+|  Vincent         |      Victor                  | 
+ ----------------- | ---------------------------- | 
+|  Front		         |   Back                       |
+|  JS              |   JS                         |
+|                  |                              |
 
 
 
