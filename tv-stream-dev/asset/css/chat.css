@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Ropa+Sans");
+
+.chat-line {
+  margin-top: 1px;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+.chat-line .chat-line-inner {
+  padding: 10px;
+  overflow-wrap: break-word;
+}
+.chat-line .chat-line-inner .badges img.badge {
+  margin-right: 6px;
+  vertical-align: text-bottom;
+  width: 18px;
+  height: 18px;
+}
+.chat-line .chat-line-inner.admin .message {opacity: 0.4;}
+.user-name {color: #ff6bb5;}
+.message img {vertical-align: text-bottom;}
+.message img.emoji {width: 20px;}
